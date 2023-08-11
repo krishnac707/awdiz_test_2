@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.home-body{
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}

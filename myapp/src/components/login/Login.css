@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login-body{
+    width: 100%;
+    margin-top: 3%;
+}
+
+.inside-login-body{
+    width: 25%;
+    margin-left: 35%;
+    border: 1px solid grey;
+    height: fit-content;
+    padding: 1%;
+
+}
+
+.inputForm-login{
+    width: 100%;
+    border: none;
+    padding: 2%;
+    outline: none;
+    border-bottom: 1px solid grey;
+    margin-bottom: 2%;
+}
+
+.inputButton-login{
+    width: 80%;
+    margin-left: 10%;
+    padding: 3%;
+    border: none;
+    outline: none;
+    background: aqua;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.create-account-css{
+    cursor: pointer;
+    /* padding-top: 4%; */
+}
+
+.create-account-para-css{
+    padding-top: 4%;
+}
